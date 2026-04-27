@@ -1,0 +1,16 @@
+ @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap&#39');
+
+
+ :root {
+    --cor-de-fundo: #a80b0b;
+    --grifar: #E1187C;
+    --branco: #ffffff;
+    --botao-ativo: #DD1CE0;
+    --botao-inativo: #A316E0;
+    --texto-fundo: #3A12FF;
+ }
+ body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
