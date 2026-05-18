@@ -5,9 +5,9 @@
     --cor-de-fundo: #a80b0b;
     --grifar: #E1187C;
     --branco: #ffffff;
-    --botao-ativo: #DD1CE0;
-    --botao-inativo: #A316E0;
-    --texto-fundo: #3A12FF;
+    --botao-ativo:#DC143C;
+    --botao-inativo: #8B0000;
+    --texto-fundo: 	#FF0000;
  }
  body {
     background-color: var(--cor-de-fundo);
