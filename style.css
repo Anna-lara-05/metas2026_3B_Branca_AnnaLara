@@ -2,18 +2,19 @@
 
 
  :root {
-    --cor-de-fundo: 	#FA8072;
+    --cor-de-fundo: 	#FF0000;
     --grifar: #E1187C;
     --branco: #ffffff;
     --botao-ativo:#DC143C;
     --botao-inativo: #8B0000;
-    --texto-fundo: 	#FF0000;
+    --texto-fundo: 	#FA8072;
  }
  body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
+
  .conteudo-principal{
     display: flex;
     flex-direction: column;
