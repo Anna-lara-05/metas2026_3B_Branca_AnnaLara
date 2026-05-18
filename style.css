@@ -65,14 +65,14 @@ border-radius: 40px 40px 0 0;
    border-radius: 0 0 40px 40px;
   }
 
-.abas-conteudo.ativo{
+.aba-conteudo.ativo{
    display: block;
   }
 
-.abas-conteudo{
+.aba-conteudo{
    display: none;
   }
-.abas-conteudos-titulo-principal{
+.aba-conteudo-titulo-principal{
    font-size: 28px;
    text-align: center;
   }
